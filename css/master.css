@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #f6f6f2;
+  color: #282c34;
+  font-family: "Helvetice Neue", sans-serif;
+}
+
+.page {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 30em;
+  margin: 2em auto;
+}
+
+.header {
+  text-align: center;
+  background-color: #fff;
+  padding: 2em;
+}
