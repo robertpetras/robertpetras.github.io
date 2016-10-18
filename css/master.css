@@ -26,14 +26,38 @@ body {
   align-items: center;
 }
 
-.container {
+.page-container {
   width: 100%;
   max-width: 30em;
   margin: 2em auto;
 }
 
-.header {
+.page-header {
   text-align: center;
   background-color: #fff;
   padding: 2em;
+}
+
+.page-footer {
+  margin: 0.5em auto;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.title {
+  font-size: 2em;
+  text-transform: uppercase;
+  color: #cf263d;
+}
+
+.subtitle {
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+.profile-link {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  color: #cf263d;
 }
