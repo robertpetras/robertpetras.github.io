@@ -39,9 +39,10 @@ a {
 }
 
 .page-header {
+  padding: 2em;
+  margin: 0 1rem;
   text-align: center;
   background-color: #fff;
-  padding: 2em;
   border-radius: 5px;
   box-shadow: 1px 1px 6px rgba(0, 0, 0, .065);
 }
