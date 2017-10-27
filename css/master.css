@@ -15,7 +15,13 @@ body {
   padding: 0;
   background: #f6f6f2;
   color: #282c34;
-  font-family: "Helvetice Neue", sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";  
+}
+
+a {
+  transition: color .5s;
+  color: #cf263d;
+  text-decoration: none;
 }
 
 .page {
@@ -36,6 +42,8 @@ body {
   text-align: center;
   background-color: #fff;
   padding: 2em;
+  border-radius: 5px;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, .075);
 }
 
 .page-footer {
@@ -45,20 +53,46 @@ body {
 }
 
 .title {
-  font-size: 2em;
+  font-size: 1.75rem;
   text-transform: uppercase;
   color: #cf263d;
+  margin-bottom: 1rem;
 }
 
 .subtitle {
-  font-weight: normal;
-  text-transform: uppercase;
+  font-size: 1.25rem;
+  font-weight: bold;
+  text-transform: none;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
 }
 
-a,
+.profile-picture {
+  display: block;
+  width: 128px;
+  height: 128px;
+  margin: 0 auto 1rem;
+  padding: 0;
+  border-radius: 50%;
+  transition: all .5s ease;
+  transform: scale(1);
+  background-color: #f6f6f2;
+  border: 6px solid #f6f6f2;
+  /* box-shadow: 1px 3px 6px rgba(0, 0, 0, .1); */
+}
+
+.profile-picture:hover {
+  transform: scale(1.1);
+  transform-origin: 50% 50%;
+}
+
 .profile-link {
   margin: 0;
   padding: 0;
   text-decoration: none;
+  color: inherit;
+}
+.profile-link:hover {
   color: #cf263d;
 }
