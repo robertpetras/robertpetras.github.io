@@ -1,7 +1,7 @@
 # Robert Petras
  Github page of Robert Petras who is and iOS Swift Developer, Android Kotlin Mobile Application Developer and UX/UI Designer living in the European Union nearby Budapest.
 
-> Portfolio site: [petras.design](https://moobil.app) <br>
+> Portfolio site: [moobil.app](https://moobil.app) <br>
 > Personal site: [robertpetras.github.io](https://robertpetras.github.io) <br>
 > Linkedin profile: [linkedin.com/in/robertpetras](https://www.linkedin.com/in/robertpetras/)<br>
 > Twitter profile: [twitter.com/robertpetras](https://twitter.com/robertpetras) <br>
