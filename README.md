@@ -1,6 +1,6 @@
 # Robert Petras
 
- This it the main Github page of Robert Petras who is an iOS Swift Developer, and SwiftUI Application UX/UI Designer living in the European Union nearby Budapest.
+ This it the main Github page of Robert Petras who is an iOS Swift Developer, and [SwiftUI](https://swiftuimasterclass.com) Application UX/UI Designer living in the European Union nearby Budapest.
 
 
 > SwiftUI Masterclass Course: [SwiftUI Tutorials](https://swiftuimasterclass.com) <br>
@@ -12,5 +12,5 @@
 
 ## Milestones
 
-2019 - Started teaching SwiftUI framework and Swift programming language exclusively which is a cross-platform framework invented by Apple. Build better apps with less code.
+2019 - Started teaching [SwiftUI](https://developer.apple.com/xcode/swiftui/) framework and Swift programming language exclusively which is a cross-platform framework invented by Apple. Build better apps with less code.
 
